@@ -1,4 +1,6 @@
-<img align="right" alt="GIF" height="100px" width="80px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWRydG52ajNmcmNpYjdrczhkcndiNWVsNHN0aWMxMjBlc3VqNDU2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1BXa2alBjrCXC/giphy.gif" />
+<img align="right" alt="GIF" height="100px" width="80px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODN0cmEyczFpMjB2MGdkaHJnbzVoamRsaHBldHlmeG9iZGYxM2hxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h0G3ny3yfdQlx5h4aF/giphy.gif" />
+
+
 
 My name is Stephen Schmidt. I'm completely out of my element with with software development. I'm more at hardware guy, working as an Aviaiton Electrican Technician/calibrator in the U.S.Navy for the last 15 years. Recently, I accepted a competitive military position with U.S. Embassy Dakar, Senegal (still active duty military).  I love learning new languages, meeting new cultures, and playing video games. 
 
